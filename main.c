@@ -4,7 +4,8 @@ int main()
 {
     int i = 13;
 
-    printf("hello world %d", i);
+    for (i = 0; i < 10; i++)
+        printf("hello world %d", i);
 
     return 0;
 }

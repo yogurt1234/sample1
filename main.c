@@ -2,7 +2,9 @@
 
 int main()
 {
-    printf("hello world");
+    int i = 13;
+
+    printf("hello world %d", i);
 
     return 0;
 }
